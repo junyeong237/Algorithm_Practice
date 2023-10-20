@@ -1,11 +1,10 @@
 package backjoon_algorithm;
 
-import java.io.BufferedReader;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class Solution_01_10_18 {
+public class Solution_10_18_01 {
 
 
     public static void main(String[] args) {

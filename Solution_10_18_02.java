@@ -2,7 +2,7 @@ package backjoon_algorithm;
 
 import java.util.*;
 
-public class Solution_02_10_18 {
+public class Solution_10_18_02 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
