@@ -86,7 +86,7 @@ public class Solution_10_20_02 {
         }
 
 
-        return Math.min(count,64-count); // 이 부분은 도저히 if문으로 다시 짜기가 싫어서 찾아봤어요.....
+        return Math.min(count,64-count); // 이 줄은 도저히 if문으로 다시 짜기가 싫어서 찾아봤어요.....
 
 
     }
